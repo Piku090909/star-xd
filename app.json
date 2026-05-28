@@ -8,7 +8,7 @@
     "SESSION_ID": {
       "description": "Your session ID (get it by running the bot locally first)",
       "required": true,
-      "value": ""
+      "value": "king~Zl629RgQ5zRc"
     },
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number with country code (e.g. 263701234567)",
